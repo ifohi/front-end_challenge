@@ -108,21 +108,23 @@ nav {
 
 }
 .content-1 {
-	width: 50%;
+	width: 100px;
 	float: left;
 	padding-bottom: 20px 25px;
 	margin: 1% 0;
+
 }
 
 .content-2 {
-	width: 50%;
+	width: 100px;
 	float: left;
 	padding-bottom: 20px 25px;
 	margin: 1% 0;
+	display: inline-block;
 }
 
 .content-3 {
-	width: 50%;
+	width: 100px;
 	float: left;
 	padding-bottom: 20px 25px;
 	margin: 1% 0;
@@ -140,9 +142,10 @@ h1 {
 	margin: 0;
 	text-align: left;
 	padding-top: 10px;
-	width: 350px;
+	width: 30%;
 	line-height: 1.5;
 	color: #FF9800;
+	display: inline-block;
 }
 
 h3 {
@@ -150,12 +153,12 @@ h3 {
 	font-weight: 100;
 	margin: 0;
 	text-align: left;
-	width: 350px;
+	width: 150px;
 	line-height: 1.5;
 	color: #2196F3;
 }
 
-nav h2 {
+h2 {
 	margin-left: 30px;
   font-size: 1.5em;
 }
