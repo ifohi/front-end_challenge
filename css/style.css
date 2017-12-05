@@ -87,18 +87,13 @@ nav {
 	 font-size: 20px;
  }
 
-#svg {
-	color: #FFFFFF;
-}
-
-.bus-routes {
-  margin-top: 10px;
+.icon {
+	fill: #FFFFFF;
+	padding: inherit;
 }
 
 .bus-route li {
   height: 72px;
-
-
 }
 
 .bus-line {
