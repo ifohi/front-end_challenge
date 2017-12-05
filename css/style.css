@@ -87,7 +87,7 @@ nav {
 	 font-size: 20px;
  }
 
-h2 path {
+#svg {
 	color: #FFFFFF;
 }
 
@@ -97,6 +97,7 @@ h2 path {
 
 .bus-route li {
   height: 72px;
+
 
 }
 
@@ -162,5 +163,4 @@ h2 {
 
 h3 {
 	font-size: 10px;
-
 }
