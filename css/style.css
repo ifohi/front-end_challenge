@@ -74,6 +74,7 @@ nav {
 	background-color: #2500FF;
 	color: #ffffff;
 	position: fixed;
+	z-index: 100;
 }
 
  nav h2 {
